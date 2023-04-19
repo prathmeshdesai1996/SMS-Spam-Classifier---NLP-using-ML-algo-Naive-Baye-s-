@@ -1,4 +1,4 @@
-readme
+
 SMS Spam Collection v.1
 -------------------------
 
